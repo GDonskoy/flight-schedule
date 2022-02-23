@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "133d5d098545a88fba8ff13f67e479d7",
+    "revision": "f2d5d954e65301bf41368003d2e03ccc",
     "url": "/GDonskoy/flight-schedule/index.html"
   },
   {
