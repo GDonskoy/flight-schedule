@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/GDonskoy/flight-schedule/static/css/main.0d029e9c.chunk.css",
-    "main.js": "/GDonskoy/flight-schedule/static/js/main.e223dbc8.chunk.js",
-    "main.js.map": "/GDonskoy/flight-schedule/static/js/main.e223dbc8.chunk.js.map",
-    "runtime-main.js": "/GDonskoy/flight-schedule/static/js/runtime-main.906029a6.js",
-    "runtime-main.js.map": "/GDonskoy/flight-schedule/static/js/runtime-main.906029a6.js.map",
+    "main.js": "/GDonskoy/flight-schedule/static/js/main.ca595ba5.chunk.js",
+    "main.js.map": "/GDonskoy/flight-schedule/static/js/main.ca595ba5.chunk.js.map",
+    "runtime-main.js": "/GDonskoy/flight-schedule/static/js/runtime-main.d4ae3ca5.js",
+    "runtime-main.js.map": "/GDonskoy/flight-schedule/static/js/runtime-main.d4ae3ca5.js.map",
     "static/css/2.2476dcc0.chunk.css": "/GDonskoy/flight-schedule/static/css/2.2476dcc0.chunk.css",
-    "static/js/2.db4f5003.chunk.js": "/GDonskoy/flight-schedule/static/js/2.db4f5003.chunk.js",
-    "static/js/2.db4f5003.chunk.js.map": "/GDonskoy/flight-schedule/static/js/2.db4f5003.chunk.js.map",
+    "static/js/2.10f26f2a.chunk.js": "/GDonskoy/flight-schedule/static/js/2.10f26f2a.chunk.js",
+    "static/js/2.10f26f2a.chunk.js.map": "/GDonskoy/flight-schedule/static/js/2.10f26f2a.chunk.js.map",
     "index.html": "/GDonskoy/flight-schedule/index.html",
-    "precache-manifest.8f9a955de1bf720d8167f3684352fe95.js": "/GDonskoy/flight-schedule/precache-manifest.8f9a955de1bf720d8167f3684352fe95.js",
+    "precache-manifest.50327c9de1123b788cc52c048140361d.js": "/GDonskoy/flight-schedule/precache-manifest.50327c9de1123b788cc52c048140361d.js",
     "service-worker.js": "/GDonskoy/flight-schedule/service-worker.js",
     "static/css/2.2476dcc0.chunk.css.map": "/GDonskoy/flight-schedule/static/css/2.2476dcc0.chunk.css.map",
     "static/css/main.0d029e9c.chunk.css.map": "/GDonskoy/flight-schedule/static/css/main.0d029e9c.chunk.css.map",
-    "static/js/2.db4f5003.chunk.js.LICENSE.txt": "/GDonskoy/flight-schedule/static/js/2.db4f5003.chunk.js.LICENSE.txt",
+    "static/js/2.10f26f2a.chunk.js.LICENSE.txt": "/GDonskoy/flight-schedule/static/js/2.10f26f2a.chunk.js.LICENSE.txt",
     "static/media/china.svg": "/GDonskoy/flight-schedule/static/media/china.6ba60959.svg",
     "static/media/france.svg": "/GDonskoy/flight-schedule/static/media/france.81465a1d.svg",
     "static/media/india.svg": "/GDonskoy/flight-schedule/static/media/india.90b012ac.svg",
@@ -27,10 +27,10 @@
     "static/media/usa.svg": "/GDonskoy/flight-schedule/static/media/usa.4a90ee18.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.906029a6.js",
+    "static/js/runtime-main.d4ae3ca5.js",
     "static/css/2.2476dcc0.chunk.css",
-    "static/js/2.db4f5003.chunk.js",
+    "static/js/2.10f26f2a.chunk.js",
     "static/css/main.0d029e9c.chunk.css",
-    "static/js/main.e223dbc8.chunk.js"
+    "static/js/main.ca595ba5.chunk.js"
   ]
 }
