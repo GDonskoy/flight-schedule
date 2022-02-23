@@ -32,7 +32,7 @@ export default function Footer(props) {
                 target="_blank"
               >
                 <GithubOutlined />
-              <a href="https://github.com/SShaposhnik/global-launches-app" target="_blank"> Github</a>
+              <a href="https://github.com/GDonskoy/flight-schedule" target="_blank"> Github</a>
               </a>
             </ListItem>
             {/* <ListItem className={classes.inlineBlock}>

@@ -59,7 +59,7 @@ export default function Header(props) {
     [classes.fixed]: fixed
   });
   const func = () => {
-    window.open('https://github.com/SShaposhnik/global-launches-app')
+    window.open('https://github.com/GDonskoy/flight-schedule')
   }
   const brandComponent = <Button className={classes.title}
     onClick={func}

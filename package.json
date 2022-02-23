@@ -2,7 +2,7 @@
   "name": "global-launches-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SShaposhnik.github.io/global-launches-app",
+  "homepage": "https://github.com/GDonskoy/flight-schedule",
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "@material-ui/icons": "^4.9.1",

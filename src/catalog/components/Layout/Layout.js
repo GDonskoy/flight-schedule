@@ -76,7 +76,7 @@ class LayoutContainer extends Component {
             {/* <Footer>
               Design © 2020 <br></br>
               <GithubOutlined />
-              <a href="https://github.com/SShaposhnik/global-launches-app" target="_blank"> Github</a>
+              <a href="https://github.com/GDonskoy/flight-schedule" target="_blank"> Github</a>
             </Footer> */}
           </Layout>
         </Layout>
