@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons');
+  .site-layout-content {
+      background: #fff;
+      padding: 24px;
+      font-family: 'Roboto', "Helvetica","Arial", sans-serif;
+      font-weight: 300;
+      line-height: 2.5em;
+  }
+.announced-table {
+  /* display: flex; */
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.homepage {
+  background-color: white;
+}
+.spaceship {
+  display: block;
+   width: 10%;
+    margin-left: 95%;
+}
+
+
+.Alien {
+  transform: rotate(-45deg);
+  width: 10%;
+  margin-left: 93%;
+}
+.alert-if-no-launch {
+  min-height: 30%;
+  max-width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#layout {
+  font-family: 'Roboto', "Helvetica","Arial", sans-serif;
+      font-weight: 300;
+      line-height: 2.5em;
+}
+
+.RangePicker {
+  margin-bottom: 20px;
+}
+
+.finished-table-content {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    z-index: 100;
+}
+
+.MapChartStyle {
+  pointer-events: none;
+  background: rgb(255, 255, 255);
+}
+
+.MarkersSryle{
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 1);
+	transform: scale(3);
+	animation: pulse 1s infinite;
+}
+@keyframes pulse {
+	0% {
+		transform: scale(1);
+    box-shadow: 4 0 0 0 rgba(0, 0, 0, 0.7);
+	}
+	50% {
+		transform: scale(1.5);
+    box-shadow: 4 0 0 10px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(1);
+    box-shadow: 4 0 0 0 rgba(0, 0, 0, 0);
+	}
+}
+.upi {
+  
+}
+
+@-webkit-keyframes swing {
+  15% {
+    -webkit-transform: translateX(9px);
+    transform: translateX(9px);
+  }
+  30% {
+    -webkit-transform: translateX(-9px);
+    transform: translateX(-9px);
+  }
+  40% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+  50% {
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+  }
+  65% {
+    -webkit-transform: translateX(3px);
+    transform: translateX(3px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+@keyframes swing {
+  15% {
+    -webkit-transform: translateX(9px);
+    transform: translateX(9px);
+  }
+  30% {
+    -webkit-transform: translateX(-9px);
+    transform: translateX(-9px);
+  }
+  40% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+  50% {
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+  }
+  65% {
+    -webkit-transform: translateX(3px);
+    transform: translateX(3px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+
+
+#myBtn:hover {
+    background-color: #555;
+}
+
+.defurl {
+    display: none;
+}
+
+.custom-popover {
+  width: 130vh;
+}
