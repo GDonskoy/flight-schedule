@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/GDonskoy/flight-schedule/static/css/main.0d029e9c.chunk.css",
+    "main.js": "/GDonskoy/flight-schedule/static/js/main.e223dbc8.chunk.js",
+    "main.js.map": "/GDonskoy/flight-schedule/static/js/main.e223dbc8.chunk.js.map",
+    "runtime-main.js": "/GDonskoy/flight-schedule/static/js/runtime-main.906029a6.js",
+    "runtime-main.js.map": "/GDonskoy/flight-schedule/static/js/runtime-main.906029a6.js.map",
+    "static/css/2.2476dcc0.chunk.css": "/GDonskoy/flight-schedule/static/css/2.2476dcc0.chunk.css",
+    "static/js/2.db4f5003.chunk.js": "/GDonskoy/flight-schedule/static/js/2.db4f5003.chunk.js",
+    "static/js/2.db4f5003.chunk.js.map": "/GDonskoy/flight-schedule/static/js/2.db4f5003.chunk.js.map",
+    "index.html": "/GDonskoy/flight-schedule/index.html",
+    "precache-manifest.8f9a955de1bf720d8167f3684352fe95.js": "/GDonskoy/flight-schedule/precache-manifest.8f9a955de1bf720d8167f3684352fe95.js",
+    "service-worker.js": "/GDonskoy/flight-schedule/service-worker.js",
+    "static/css/2.2476dcc0.chunk.css.map": "/GDonskoy/flight-schedule/static/css/2.2476dcc0.chunk.css.map",
+    "static/css/main.0d029e9c.chunk.css.map": "/GDonskoy/flight-schedule/static/css/main.0d029e9c.chunk.css.map",
+    "static/js/2.db4f5003.chunk.js.LICENSE.txt": "/GDonskoy/flight-schedule/static/js/2.db4f5003.chunk.js.LICENSE.txt",
+    "static/media/china.svg": "/GDonskoy/flight-schedule/static/media/china.6ba60959.svg",
+    "static/media/france.svg": "/GDonskoy/flight-schedule/static/media/france.81465a1d.svg",
+    "static/media/india.svg": "/GDonskoy/flight-schedule/static/media/india.90b012ac.svg",
+    "static/media/iran.svg": "/GDonskoy/flight-schedule/static/media/iran.cb4efe8f.svg",
+    "static/media/japan.svg": "/GDonskoy/flight-schedule/static/media/japan.aefa133b.svg",
+    "static/media/kazakhstan.svg": "/GDonskoy/flight-schedule/static/media/kazakhstan.ea9f41eb.svg",
+    "static/media/new-zealand.svg": "/GDonskoy/flight-schedule/static/media/new-zealand.082ced43.svg",
+    "static/media/russia.svg": "/GDonskoy/flight-schedule/static/media/russia.1b038aa5.svg",
+    "static/media/space1.jpg": "/GDonskoy/flight-schedule/static/media/space1.358c32a9.jpg",
+    "static/media/uk.svg": "/GDonskoy/flight-schedule/static/media/uk.dbb2d233.svg",
+    "static/media/usa.svg": "/GDonskoy/flight-schedule/static/media/usa.4a90ee18.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.906029a6.js",
+    "static/css/2.2476dcc0.chunk.css",
+    "static/js/2.db4f5003.chunk.js",
+    "static/css/main.0d029e9c.chunk.css",
+    "static/js/main.e223dbc8.chunk.js"
+  ]
+}
