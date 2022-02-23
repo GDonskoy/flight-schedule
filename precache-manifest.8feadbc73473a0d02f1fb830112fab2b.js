@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef87228ffe73ff55667daed1109b147c",
+    "revision": "133d5d098545a88fba8ff13f67e479d7",
     "url": "/GDonskoy/flight-schedule/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GDonskoy/flight-schedule/static/css/2.2476dcc0.chunk.css"
   },
   {
-    "revision": "15043ac03084578e2e22",
+    "revision": "953763df4598bd3e0c5c",
     "url": "/GDonskoy/flight-schedule/static/css/main.0d029e9c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GDonskoy/flight-schedule/static/js/2.10f26f2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15043ac03084578e2e22",
-    "url": "/GDonskoy/flight-schedule/static/js/main.ca595ba5.chunk.js"
+    "revision": "953763df4598bd3e0c5c",
+    "url": "/GDonskoy/flight-schedule/static/js/main.220eaa79.chunk.js"
   },
   {
     "revision": "05ddfe0a086f5de03758",

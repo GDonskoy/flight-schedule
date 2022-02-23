@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GDonskoy/flight-schedule/precache-manifest.50327c9de1123b788cc52c048140361d.js"
+  "/GDonskoy/flight-schedule/precache-manifest.8feadbc73473a0d02f1fb830112fab2b.js"
 );
 
 self.addEventListener('message', (event) => {
